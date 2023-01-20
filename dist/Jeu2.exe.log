@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "Jeu2.py", line 977, in <module>
+  File "Jeu2.py", line 955, in __init__
+  File "Tkinter.pyc", line 3270, in __init__
+  File "Tkinter.pyc", line 3226, in __init__
+_tkinter.TclError: couldn't open "C:/mastermindjl/titre.gif": no such file or directory
+Traceback (most recent call last):
+  File "Jeu2.py", line 977, in <module>
+  File "Jeu2.py", line 955, in __init__
+  File "Tkinter.pyc", line 3270, in __init__
+  File "Tkinter.pyc", line 3226, in __init__
+_tkinter.TclError: couldn't open "C:/mastermindjl/titre.gif": no such file or directory
+Traceback (most recent call last):
+  File "Jeu2.py", line 977, in <module>
+  File "Jeu2.py", line 955, in __init__
+  File "Tkinter.pyc", line 3270, in __init__
+  File "Tkinter.pyc", line 3226, in __init__
+_tkinter.TclError: couldn't open "C:/mastermindjl/titre.gif": no such file or directory
+Traceback (most recent call last):
+  File "Jeu2.py", line 977, in <module>
+  File "Jeu2.py", line 955, in __init__
+  File "Tkinter.pyc", line 3270, in __init__
+  File "Tkinter.pyc", line 3226, in __init__
+_tkinter.TclError: couldn't open "C:/mastermindjl/titre.gif": no such file or directory
