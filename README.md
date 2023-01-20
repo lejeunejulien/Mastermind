@@ -1,3 +1,3 @@
 # Mastermind
 
-Placer le dossier dans la partition c:\ puis ouvrir le fichier Mastermind
+Placer le dossier dans la partition C:\ puis ouvrir le fichier Mastermind
